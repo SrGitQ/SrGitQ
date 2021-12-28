@@ -3,7 +3,7 @@
 ### I'm a student of Data Engineering and a main Javascript developer in Merida, Mexico.
 
 - 🗿 I’m currently Free
-- 🔬 I’m currently learning React
+- 🔬 I’m currently learning Node js
 - 📫 How to reach me: jmbalanzar@gmail.com
 - 💠 We can talk about: Astronomy, Food, games, Technologies
 - 🦉 My strengths: Logic, Reading, Brainstorming
