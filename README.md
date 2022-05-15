@@ -1,9 +1,9 @@
 ### Hey Cyborg 👾!!
 
-### I'm a student of Data Engineering and a main Javascript developer in Merida, Mexico.
+### I'm a student of Data Engineering and Full Stack Js Dev in Merida, Mexico.
 
 - 🗿 I’m currently Free
-- 🔬 I’m currently learning React.js
+- 🔬 I’m currently learning Tailwinds css
 - 📫 How to reach me: jmbalanzar@gmail.com
 - 💠 We can talk about: Astronomy, Food, games, Technologies
 - 🦉 My strengths: Logic, Reading, Brainstorming
