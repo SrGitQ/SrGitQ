@@ -1,13 +1,13 @@
 ### Hey Cyborg 👾!!
 
-### I'm a student of Data Engineering and Full Stack Js Dev in Merida, Mexico.
+### Backend & Data engineer in Merida, Mexico.
 
-- 🗿 I’m currently Free
-- 🔬 I’m currently learning Tailwinds css
+- 🗿 I’m currently working at AIVARAMX
+- 🔬 I’m currently learning Rust
 - 📫 How to reach me: jmbalanzar@gmail.com
-- 💠 We can talk about: Astronomy, Food, games, Technologies
-- 🦉 My strengths: Logic, Reading, Brainstorming
-- 🐌 My weaknesses: Notion of the reality
+- 💠 We can talk about: System design
+- 🦉 My strengths: Problem solving, Reading, Brainstorming
+- 🐌 My weaknesses: my cat
 
 
 <br />
