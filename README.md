@@ -1,6 +1,6 @@
 ### Hey Cyborg 👾!!
 
-### Backend & Data engineer in Merida, Mexico.
+### Software & Data engineer in Merida, Mexico.
 
 - 🗿 I’m currently working at AIVARAMX
 - 🔬 I’m currently learning Rust
